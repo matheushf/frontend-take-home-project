@@ -1,5 +1,33 @@
 # Classkick Front End Engineering Take Home Project
 
+
+
+## How to run
+```
+Ensure node: '>=16.8.0'
+```
+
+First, install the dependencies:
+```
+npm ci
+```
+
+Then, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+
+
+Then access it on `http://localhost:3000/playground`
+
+
+----------------------------------------------------
+
+
 ## Intro
 Welcome! and thank you for taking the time to complete the Classkick take-home challenge for our Senior/Staff Frontend Engineer position.
 
